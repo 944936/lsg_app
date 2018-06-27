@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://lsg.51sanu.com/lsg/down/lsg.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://119.23.240.84/lsg/images/logo.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.yaloe8811g</string>
+               <key>bundle-version</key>
+               <string>1.0.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>来爽购</string>
+               <key>title</key>
+               <string>来爽购</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
